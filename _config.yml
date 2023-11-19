@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinan Lu's Page"
+title                    : "Jinan's Page"
 title_separator          : "-"
 name                     : &name "Jianan Lu"
 description              : &description "Jianan Lu"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jianan Lu"
   avatar           : "avatar.png"
-  bio              : "Hangzhou Dianzi University, Hangzhou, China"
-  location         : "Hangzhou"
+  bio              : "I am a postgraduate of Computer Science."
+  location         : "Hangzhou, China"
   employer         :
   pubmed           :
   googlescholar    :
