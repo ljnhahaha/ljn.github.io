@@ -2,20 +2,17 @@
 main:
   - title: "Publications"
     url: /publications/
-  
-  - title: "Weekly Notes"
-    url: /notes/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Weekly Notes"
     url: /year-archive/
     
   - title: "CV"
