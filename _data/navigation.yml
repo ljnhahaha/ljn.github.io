@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-  
-  # - title: "Weekly Notes"
-  #   url: /weeklynotes/
 
   - title: "Talks"
     url: /talks/    
