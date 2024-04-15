@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Weekly Notes"
-    url: /year-archive/
+  # - title: "Weekly Notes"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
