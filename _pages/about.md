@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
- Hi, welcome. I am a postgraudate student of Hanghzou Dianzi University, China. My researches focus on Computer Vision and Privacy Preserving.
+ Hi, welcome. I am a postgraduate student of Hanghzou Dianzi University, China. My researches focus on Computer Vision and Privacy Preserving.
